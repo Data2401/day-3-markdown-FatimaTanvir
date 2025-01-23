@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Fatima Tanvir"
 date: "Data 2401"
 output: html_document
 ---
@@ -34,4 +34,33 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
+
+
+### Your work here
+
+## Wise Words
+
+"You are going through a metamorphosis, my nephew. It will not be a pleasant experience but when you come out of it. You will be the beautiful prince you were always meant to be." - _Uncle Iroh, Avatar: The Last Airbender_
+
+https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Duncle%2Biroh%2Bmetamorphosis%26oq%3Dunc%26gs_lcrp%3DEgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIG&source_ve_path=Mjg2NjQsMTY0NTAz&v=hTZNvcP3Q28&feature=youtu.be 
+
+
+
+## My Semester
+
+| Course No | _Course name_ | Instructor |
+|:---------|:-------------|:-----------|
+| DATA 2401 | Data Science 1 | Dr. Shoemaker|
+| CS 3319 | Internet of Things | Dr. Ting Zhang |
+| CS 4294 | Senior Seminar | Dr. Hong Lin |
+| CS 4332 | Artificial Intelligence | Dr. Azadeh Izadi |
+
+
+## I recommend
+### James Clear - Author
+*Atomic Habits*
+
+- Emotional Intelligence Good Habits
+- The Journal Habit 
+
  
